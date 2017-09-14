@@ -9,3 +9,5 @@ Doing this interpretation manually is very time consuming.
 **Objective** of this problem is to develop algorithms to classify genetic mutations based on clinical evidence (text) given in the dataset provided on Kaggle.
 
 
+The dataset for this can be dowloaded from : https://www.kaggle.com/c/msk-redefining-cancer-treatment
+
